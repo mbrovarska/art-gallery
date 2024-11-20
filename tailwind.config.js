@@ -8,7 +8,7 @@ export default {
     screens: {
       sm: "412px",
       md: "760px",
-      lg: "1024px",
+      lg: "960px",
       // "lg-max": { max: "960px" },
       xl: "1140px",
       "2xl": "1320px",
@@ -17,11 +17,12 @@ export default {
       "white": "#fffff",
       "grey": "#44444",
       "black": "#151515",
-      "orange": "#D5966C"
+      "orange": "#D5966C",
+      "bg": "#f0f0f5"
     },
     fontFamily: {
       sans: ["Big Shoulders Display", "sans-serif"],
-      serif: ["Outfit", "sans-serif"]
+      serif: ["Outfit"]
     },
     fontSize: {
       xl: "96px",
