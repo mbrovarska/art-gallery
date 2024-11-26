@@ -4,11 +4,11 @@ import image3 from "../assets/mobile/image-grid-3@2x.jpg"
 import text from "../assets/text/text.json"
 
 const Gallery = () => {
-    return <div className="flex flex-col items-center mt-20 mx-2 md:grid md:grid-cols-6 md:relative">
-        <div className="w-[90%] md:col-start-3 md:col-end-7 md:order-2 md:w-[95%]">
+    return <div className="flex flex-col items-center mt-20 mx-2 md:grid md:grid-cols-6 md:relative lg:place-content-center lg:gap-48">
+        <div className="w-[90%] md:col-start-3 md:col-end-7 md:order-2 md:w-[95%] lg:place-self-end">
             <img src={image1} alt="exibition of abstract paintings"/>
         </div>
-        <div className="w-[90%] my-3 md:col-start-1 md:col-end-3 md:order-1">
+        <div className="w-[90%] my-3 md:col-start-1 md:col-end-3 md:order-1 lg:place-self-center">
             <h2 className="text-s font-bold">{text.subtitleContentOne}</h2>
             <p className="text-small font-serif font-thin">{text.contentTextOne}</p>
         </div>
