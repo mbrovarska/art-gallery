@@ -4,8 +4,8 @@ import text from "../assets/text/text.json"
 
 const Footer = () => {
   return (
-    <footer className="relative w-full bg-black text-white mt-24">
-      <div className="w-full px-8 pb-4 lg:max-w-full">
+    <footer className="relative w-full  text-white mt-auto">
+      <div className="w-full px-8 pb-4 bg-black lg:max-w-full mt-24">
         <div className="grid grid-cols-1 justify-between gap-4 md:grid-cols-3">
           <p className="my-6 text-medium font-bold">
             {text.title}

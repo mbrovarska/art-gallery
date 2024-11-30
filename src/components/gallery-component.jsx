@@ -4,7 +4,7 @@ import image3 from "../assets/mobile/image-grid-3@2x.jpg"
 import text from "../assets/text/text.json"
 
 const Gallery = () => {
-    return <div className="flex flex-col items-center mt-20 mx-2 md:ml-6 md:grid md:grid-cols-6 md:relative lg:mx-48">
+    return <div className="flex flex-col grow items-center mt-20 mx-2 md:ml-6 md:grid md:grid-cols-6 md:relative lg:mx-48">
         <div className="w-[90%] md:col-start-3 md:col-end-7 md:order-2 md:w-[95%] lg:w-full lg:ml-6 lg:mb-6 xl:ml-44">
             <img src={image1} alt="exibition of abstract paintings"/>
         </div>
