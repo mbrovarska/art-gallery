@@ -4,10 +4,12 @@ import Footer from "../components/footer-component";
 
 
 const HomePage = () => {
+  const bgColor = "#000000"
+  const white = "#FFFFFF"
   return <div className="flex flex-col min-vh-100 justify-between">
     <Header/>
     <Gallery/>
-    <Footer/>
+    <Footer bgColor={bgColor} textColor={white} iconColor={white}/>
 
   </div>
 }

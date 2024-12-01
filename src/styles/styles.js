@@ -8,5 +8,5 @@ export const styles= {
     titleText: "absolute text-xl top-20 inset-3/4 min-w-fit",
     headerImg: "max-w-48 md:min-w-full block m-auto",
     secondTitleText: "lg:hidden text-m ml-4 md:ml-0 font-bold md:font-medium",
-    subtitleText: "text-black text-small font-serif font-thin ml-4 md:ml-0 md:font-bold mb-4"
+    subtitleText: "text-black text-small font-serif font-thin ml-4 md:ml-0 md:font-bold mb-4",
 }
