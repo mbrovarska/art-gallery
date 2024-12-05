@@ -24,7 +24,7 @@ const Header = () => {
             <Button onClick={locationPage}
                     size="lg"
                     color="black"
-                    className={styles.headerBtn} type="button">
+                    className={styles.locationText} type="button">
                     {text.headerBtn}
                 <span className={styles.spanBtn}>
                     <img src={arrowRight}/>

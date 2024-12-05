@@ -9,7 +9,7 @@ const LocationPage = () => {
     return <div className="flex flex-col min-vh-100 justify-between">
         <MapComponent/>
         <LocationComponent/>
-        <Footer bgColor={bgColor} textColor={black} iconColor={black}/>
+        <Footer bgColor={bgColor} textColor={black} iconColor={black} bgColorFooter={bgColor}/>
     </div>
   }
   

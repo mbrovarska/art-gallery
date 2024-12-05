@@ -1,11 +1,17 @@
 {
     "title": "MODERN ART GALLERY",
     "subtitle": "The arts in the collection of the Modern Art Gallery all started from a spark of inspiration. Will these pieces inspire you? Visit us and find out.",
-    "headerBtn": "OUR LOCATION",
+    "locationText": "OUR LOCATION",
     "subtitleContentOne": "YOUR DAY AT THE GALLERY",
     "contentTextOne": "Wander through our distinct collections and find new insights about our artists. Dive into the details of their creative process.",
     "subtitleContentTwo": "Come & be inspired",
     "contentTextTwo": " We’re excited to welcome you to our gallery and see how our collections influence you.",
     "footerTitle": "Modern Art Gallery",
-    "footerText": "The Modern Art Gallery is free to all visitors and open seven days a week from 8am to 9pm. Find us at 99 King Street, Newport, USA."
+    "footerText": "The Modern Art Gallery is free to all visitors and open seven days a week from 8am to 9pm. Find us at 99 King Street, Newport, USA.",
+    "address": "99 King Street",
+    "city": " Newport",
+    "postelCode": "RI 02840",
+    "country": "United States of America",
+    "locationInfo": "Our newly opened gallery is located near the Edward King House on 99 King Street, the Modern Art Gallery is free to all visitors and open seven days a week from 8am to 9pm."
+
 }

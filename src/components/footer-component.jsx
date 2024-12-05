@@ -1,9 +1,9 @@
 import { Typography } from "@material-tailwind/react";
 import text from "../assets/text/text.json"
  
-const Footer = ({ bgColor, textColor, iconColor }) => {
+const Footer = ({ bgColor, textColor, iconColor, bgColorFooter }) => {
   return (
-    <footer className="relative w-full text-white mt-auto" style={{ color: textColor }}>
+    <footer className="relative w-full text-white" style={{ color: textColor, backgroundColor: bgColorFooter }}>
       <div className="w-full  px-8 pb-4 lg:max-w-full mt-24" style={{ backgroundColor: bgColor }}>
         <div className="grid grid-cols-1 justify-between gap-4 md:grid-cols-3">
           <p className="my-6 text-medium font-bold">
