@@ -11,6 +11,7 @@ const Header = () => {
     const locationPage = () => {
         navigate("/location")
     }
+
     return <div className={styles.headerContainer}>
         <div className={styles.headerColOne}>
             <p className={styles.titleText}>{text.title}</p>
@@ -24,7 +25,7 @@ const Header = () => {
             <Button onClick={locationPage}
                     size="lg"
                     color="black"
-                    className={styles.headerBtn} type="button">
+                    className={[styles.headerBtn, "pr-[72px]"]} type="button">
                     {text.locationText}
                 <span className={styles.spanBtn}>
                     <img src={arrowRight}/>
