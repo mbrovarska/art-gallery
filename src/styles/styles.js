@@ -10,5 +10,5 @@ export const styles= {
     secondTitleText: "lg:hidden text-m ml-4 md:ml-0 font-bold md:font-medium",
     subtitleText: "text-black text-small font-serif font-thin ml-4 md:ml-0 md:font-bold mb-4",
     backSpanBtn: "absolute left-0 grid h-full w-12 place-items-center bg-orange transition-colors group-hover:bg-black",
-    backBtn: "group  flex items-center gap-3  hover:bg-orange overflow-hidden rounded-none z-50 pl-[72px] relative"
+    backBtn: "group flex items-center gap-3 hover:bg-orange overflow-hidden rounded-none z-40 pl-[72px] relative"
 }
