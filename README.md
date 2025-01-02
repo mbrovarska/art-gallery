@@ -7,7 +7,7 @@ The Dynamic Art Gallery Website is a cutting-edge website crafted with React and
 
 ## API
 [Leaflet](https://leafletjs.com/)
-[MAP API](https://www.maptiler.com/) for staling map
+[MAP API](https://www.maptiler.com/) for styling map
 
 ## Technologies Used
 - React: For building reusable UI components and managing application state.
