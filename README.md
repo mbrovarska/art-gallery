@@ -6,7 +6,7 @@ The Dynamic Art Gallery Website is a cutting-edge website crafted with React and
 [Link](https://art-galleryy.netlify.app/) to the web app.
 
 ## API
-[Leaflet] (https://leafletjs.com/)
+[Leaflet](https://leafletjs.com/)
 [MAP API](https://www.maptiler.com/) for staling map
 
 ## Technologies Used
