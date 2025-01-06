@@ -21,7 +21,7 @@ const BackButton = () => {
             color="black"                                 
             className={styles.backBtn} type="button">
             <span className={styles.backSpanBtn}>
-            <img src={arrowRight}/>
+            <img src={arrowRight} alt="arrow right icon"/>
             </span>
                 {text.back}
     </Button>
